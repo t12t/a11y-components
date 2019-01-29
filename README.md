@@ -7,7 +7,13 @@ An attempt at collecting some of the collections of accessible components but al
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) - A https://www.w3.org/WAI/ guidance on how to create websites that meet [WCAG](https://www.w3.org/WAI/intro/wcag)
 * [Accessible UI Components List](https://www.w3.org/blog/wai-components-gallery/) - A W3 collection with frameworks, snippets and widgets
 * [Inclusive Components](https://inclusive-components.design/) - A pattern library by [Heydon Pickering](https://twitter.com/heydonworks)
+* [React Inclusive Components](https://www.npmjs.com/package/react-inclusive-components) - Inclusive components for React. Based on [Inclusive Components](https://inclusive-components.design/)
 * [A11y Project Patterns](http://a11yproject.com/patterns.html) - An accessible widget & pattern library
+
+## Autocomplete
+
+* [Downshift](https://github.com/paypal/downshift) - React autocomplete/dropdown/select/combobox components by [Paypal](https://github.com/paypal)
+* [React Autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component More info at [react-autosuggest.js.org](http://react-autosuggest.js.org)
 
 ## Modal
 
@@ -29,9 +35,17 @@ An attempt at collecting some of the collections of accessible components but al
 
 * [Share Button](https://www.w3.org/WAI/tutorials/forms/custom-controls/#a-share-button) - An example of a share-button from by [WAI](https://www.w3.org/WAI/)
 
+## Slider
+
+* [Accessible Range Inputs](https://codepen.io/smhigley/pen/ObWbdy) - A codepen by Sarah Higley showing a slider with and without JavaScript
+
 ## Switch
 
-* [ARIA Switch Button](https://github.com/scottaohara/aria-switch-button) - A switch button by [Scott O'Hara](https://twitter.com/scottohara). [Demo available here](https://scottaohara.github.io/aria-switch-button/).
+* [ARIA Switch Button](https://github.com/scottaohara/aria-switch-button) - A switch button by [Scott O'Hara](https://twitter.com/scottohara) [Demo of switch available here](https://scottaohara.github.io/aria-switch-button/).
+
+## Table
+
+* [Responsive Table](http://adrianroselli.com/2017/11/a-responsive-accessible-table.html) - A full tutorial for a responsive, accessible table. [Table demo here](https://codepen.io/aardrian/pen/YEKmxP?editors=1000)
 
 ## Video
 
