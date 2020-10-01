@@ -9,6 +9,7 @@ An attempt at collecting some of the collections of accessible components but al
 - [Inclusive Components](https://inclusive-components.design/) - A pattern library by [Heydon Pickering](https://twitter.com/heydonworks)
 - [React Inclusive Components](https://www.npmjs.com/package/react-inclusive-components) - Inclusive components for React. Based on [Inclusive Components](https://inclusive-components.design/)
 - [A11y Project Patterns](http://a11yproject.com/patterns.html) - An accessible widget & pattern library
+- [Reakit](https://reakit.io/) - Accessible, Composable and Customizable components for React
 
 ## Autocomplete
 
