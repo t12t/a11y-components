@@ -11,6 +11,10 @@ An attempt at collecting some of the collections of accessible components but al
 - [A11y Project Patterns](http://a11yproject.com/patterns.html) - An accessible widget & pattern library
 - [Reakit](https://reakit.io/) - Accessible, Composable and Customizable components for React
 
+## Contrast checker
+
+- [a11y-contrast](https://github.com/darekkay/a11y-contrast) — A CLI utility to calculate/verify accessible magic numbers for a color palette.
+
 ## Autocomplete
 
 - [Downshift](https://github.com/paypal/downshift) - React autocomplete/dropdown/select/combobox components by [Paypal](https://github.com/paypal)
@@ -18,6 +22,7 @@ An attempt at collecting some of the collections of accessible components but al
 
 ## Modal
 
+- [a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [A11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - A lightweight script to create accessible dialog windows by [Edenspiekermann](https://www.edenspiekermann.com/)
 - [React Aria Modal](https://github.com/davidtheclark/react-aria-modal) - a modal built with [React](https://facebook.github.io/react/)
 
@@ -48,6 +53,10 @@ An attempt at collecting some of the collections of accessible components but al
 ## Table
 
 - [Responsive Table](http://adrianroselli.com/2017/11/a-responsive-accessible-table.html) - A full tutorial for a responsive, accessible table. [Table demo here](https://codepen.io/aardrian/pen/YEKmxP?editors=1000)
+
+## Tabs
+
+- [a11y-tabs](https://github.com/agnosticui/a11y-tabs) -  A lightweight (<1Kb) JavaScript package to facilitate a11y-compliant tabbed interfaces.
 
 ## Video
 
