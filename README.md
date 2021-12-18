@@ -18,7 +18,7 @@ An attempt at collecting some of the collections of accessible components but al
 
 ## Modal
 
-- [A11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - A lightweight script to create accessible dialog windows by [Edenspiekermann](https://www.edenspiekermann.com/)
+- [A11y Dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script by [Kitty Giraudel](https://kittygiraudel.com/)
 - [React Aria Modal](https://github.com/davidtheclark/react-aria-modal) - a modal built with [React](https://facebook.github.io/react/)
 
 ## Menu
@@ -48,6 +48,11 @@ An attempt at collecting some of the collections of accessible components but al
 ## Table
 
 - [Responsive Table](http://adrianroselli.com/2017/11/a-responsive-accessible-table.html) - A full tutorial for a responsive, accessible table. [Table demo here](https://codepen.io/aardrian/pen/YEKmxP?editors=1000)
+
+## Tabs
+
+- [A11y Tabs](https://github.com/agnosticui/a11y-tabs) - A lightweight (<1Kb) JavaScript package to facilitate a11y-compliant tabbed interfaces by [Rob Levin](https://developtodesign.com/).
+- [AgnosticUI Tabs](https://www.agnosticui.com/docs/components/tabs.html) - An a11y-compliant tabbed interface component that works in React, Vue 3, Svelte, and Angular.
 
 ## Video
 
